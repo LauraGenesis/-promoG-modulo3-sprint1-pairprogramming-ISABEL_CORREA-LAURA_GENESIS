@@ -6,8 +6,12 @@
 ## Lecciones:
 - Numpy
 - Pandas
+- EDA
+- Unions
+- Groupby
 
-## Archivos:
-1. pair_numpy: jupyter notebook, resolución de ejercicios de NumPy
-2. pair-pandas: jupyter notebook, resolución de ejercicios de Pandas
-3. medallas: csv, datos sobre países y sus respectivas medallas
+## Archivos csv:
+1. medallas.csv: datos sobre países y sus respectivas medallas
+2. world-data-2023_part1.csv
+3. world-data-2023_part2.csv
+4. df_pairprogramming.csv
